@@ -46,15 +46,6 @@ export function ContactForm() {
   return (
     <section id="contact" className="py-24 px-4 relative">
       <div className="container mx-auto max-w-6xl">
-        <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Свяжитесь <span className="gradient-text">с нами</span>
-          </h2>
-          <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Оставьте заявку, и мы свяжемся с вами в течение 15 минут
-          </p>
-        </div>
-
         {/* Yandex Map Section */}
         <div className="mb-16">
           <div className="flex items-center justify-between mb-6">
