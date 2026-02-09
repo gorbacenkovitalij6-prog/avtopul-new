@@ -330,7 +330,7 @@ async def contact(update: Update, context):
     await update.message.reply_text(
         "📞 *Контакты Автопул:*\n\n"
         "☎️ Телефон: +7 (845) 200-00-00\n"
-        "📧 Email: info@avtopul.ru\n"
+        "📧 Email: autopulgroup@gmail.com\n"
         "📍 Адрес: г. Саратов, ул. Международная, 26\n\n"
         "🕐 Работаем: Пн-Пт 09:00-20:00, Сб-Вс 10:00-18:00",
         parse_mode="Markdown"
@@ -385,7 +385,7 @@ bot.onText(/\/contact/, (msg) => {
   bot.sendMessage(chatId,
     '📞 *Контакты Автопул:*\n\n' +
     '☎️ Телефон: +7 (845) 200-00-00\n' +
-    '📧 Email: info@avtopul.ru\n' +
+    '📧 Email: autopulgroup@gmail.com\n' +
     '📍 Адрес: г. Саратов, ул. Международная, 26',
     {parse_mode: 'Markdown'}
   );

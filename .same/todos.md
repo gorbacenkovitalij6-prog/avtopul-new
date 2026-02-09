@@ -84,7 +84,7 @@
 - 8 страниц навигации
 - Адаптивный дизайн
 
-📌 **GitHub репозиторий:** https://github.com/gorbacenkovitalij6-prog/avtopul-website
+📌 **GitHub репозиторий:** https://github.com/gorbacenkovitalij6-prog/avtopul-new
 📌 **Netlify деплой:** https://same-hvsyq69olfg-latest.netlify.app
 
 ✅ **Версия 44 - Финальный деплой завершен!**
